@@ -1,0 +1,16 @@
+category,subCategory,price,stock,expirationDate
+Drinks,Juices,1000,4,2025-04-25
+Drinks,Coffee,2000,2,2025-04-26
+Drinks,Tea,3000,1,2025-06-28
+Snacks,Chips,1700,2,2025-05-01
+Snacks,Cookies,2500,2,2025-04-27
+Food,Instant Food,5000,3,2025-04-27
+Food,Frozen Food,3000,2,2025-07-30
+Food,Sauces,2000,4,2027-06-30
+Ice Cream,Cone,1000,3,2026-12-31
+Ice Cream,Bar,500,4,2025-12-31
+Ice Cream,Cup,2000,3,2027-04-30
+Alcohol,Beer,3000,3,2025-05-30
+Alcohol,Soju,2000,7,2028-03-30
+Alcohol,Wine,10000,4,2026-04-30
+Food,Sauces,2000,4,2025-06-07

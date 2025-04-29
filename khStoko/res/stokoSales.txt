@@ -1,0 +1,16 @@
+no,category,subCategory,price,stock,date
+1,Drinks,Juices,1000,2,2025-06-28
+2,Snacks,Cookies,2000,2,2025-06-27
+2,Drinks,Tea,3000,1,2025-06-27
+2,Drinks,Tea,3000,2,2025-04-25
+3,Snacks,Candy,5000,5,2025-04-25
+4,Drinks,Tea,3000,3,2024-04-25
+4,Ice Cream,Bar,500,4,2025-04-25
+5,Drinks,Tea,3000,1,2025-04-25
+6,Drinks,Tea,3000,3,2025-04-26
+7,Snacks,Cookies,2500,3,2025-04-26
+8,Snacks,Chips,1700,3,2025-04-26
+9,Food,Sauces,2000,4,2025-04-26
+9,Ice Cream,Cup,2000,4,2025-04-26
+10,Snacks,Candy,5000,2,2025-04-26
+10,Ice Cream,Cup,2000,2,2025-04-26

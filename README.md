@@ -44,7 +44,6 @@ Java 기반의 콘솔 프로그램으로, **재고 관리**와 **매출 관리**
 - 개발 OS : WINDOW 11 home
 - JDK 버전 : jdk-18
 - 개발 언어 : JAVA
-- 데이터베이스 모델링 툴 : ERWin 7.3.0.1666, StarUML
 - 개발Tool : Eclipse IDE for Java Developers – 2024-12
 
 ### 📅 개발 기간

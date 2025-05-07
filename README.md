@@ -24,6 +24,11 @@ Java 기반의 콘솔 프로그램으로, **재고 관리**와 **매출 관리**
 - `ProcessManager.java`: 비즈니스 로직이 포함된 싱글턴 객체
 - `StokoData.java`, `StokoSalesData.java`: 재고 및 매출 데이터를 담는 모델 클래스
 
+![image](https://github.com/user-attachments/assets/d6e26fe0-55c0-4b3a-ba8e-7ed505862f97)
+
+![image](https://github.com/user-attachments/assets/95f4e6f4-7fb7-4576-aefa-94504b8bdd7a)
+
+
 ## 🔧 사용 방법
 1. Java 환경에서 프로젝트 실행
 2. 콘솔에 출력되는 메뉴를 통해 관리자 또는 손님 모드를 선택
@@ -34,6 +39,13 @@ Java 기반의 콘솔 프로그램으로, **재고 관리**와 **매출 관리**
 - 사용자의 행동에 따라 리스트가 갱신됨
 
 ## 💡 개발 환경
-- Java 8 이상
-- 콘솔 기반 애플리케이션
+- 콘솔 기반 프로그램
 - 텍스트 파일을 통한 데이터 저장/로드
+- 개발 OS : WINDOW 11 home
+- JDK 버전 : jdk-18
+- 개발 언어 : JAVA
+- 데이터베이스 모델링 툴 : ERWin 7.3.0.1666, StarUML
+- 개발Tool : Eclipse IDE for Java Developers – 2024-12
+
+### 📅 개발 기간
+2025.04.21 ~ 2025.04.27

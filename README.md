@@ -50,6 +50,3 @@ Java 기반의 콘솔 프로그램으로, **재고 관리**와 **매출 관리**
 - JDK 버전 : jdk-18
 - 개발 언어 : JAVA
 - 개발Tool : Eclipse IDE for Java Developers – 2024-12
-
-### 📅 개발 기간
-2025.04.21 ~ 2025.04.27
